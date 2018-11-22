@@ -10,3 +10,4 @@ spring.datasource.url=jdbc:mysql://localhost:3306/spring
 spring.datasource.username=${DB_USER}
 spring.datasource.password=${DB_PASSWD}
 ```
+Youtube with Explanation : [https://youtu.be/3Q33dWbbRUk](https://youtu.be/3Q33dWbbRUk)
