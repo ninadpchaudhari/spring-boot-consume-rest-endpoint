@@ -2,7 +2,7 @@
 
 If you do not have lombok installed in your IDE, it might show warnings.
 
-Ideally keep the [application.properties](application.properties) file as : 
+Ideally keep the [application.properties](https://github.com/ninadpchaudhari/spring-boot-consume-rest-endpoint/blob/master/src/main/resources/application.properties) file as : 
 
 spring.jpa.database-platform=org.hibernate.dialect.MySQL5Dialect
 spring.jpa.hibernate.ddl-auto=create-drop
